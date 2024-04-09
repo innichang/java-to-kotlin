@@ -1,0 +1,26 @@
+
+7
+java:S1220""Move this file to a named package.8´·®åê1
+L	java:S106"+Replace this use of System.out by a logger.(·»ÛÚùÿÿÿÿ8ÕÔÙñë1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8»·®åê1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8»·®åê1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8»·®åê1
+W
+java:S1128"5Remove this unused import 'java.io.LineNumberReader'.(ÇÂõÇüÿÿÿÿ8»·®åê1
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8Ê…ßèê1
+P
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹8Ê…ßèê1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8»·®åê1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ô‰Øñë1
+R
+java:S1128	"0Remove this unused import 'java.time.YearMonth'.(€°’Ñùÿÿÿÿ8»·®åê1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8»·®åê1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8»·®åê1
