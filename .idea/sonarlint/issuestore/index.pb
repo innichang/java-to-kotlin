@@ -80,3 +80,25 @@ b
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+^
+.src/main/java/section4/lec16/JavaFunction.java,3/5/357237b6b4b3f7723bb602e1d1df21d70a0a3744
+Z
+*src/main/kotlin/section4/lec16/Function.kt,f/5/f550ac534579a1b4a0abc67cc92636443a4e9a01
+c
+3src/main/kotlin/section4/lec16/ExtensionFunction.kt,e/c/ec511f18b82d6758a9320c33f0a2d347f8ca4b77
+_
+/src/main/kotlin/section4/lec16/InFixFunction.kt,e/1/e1aea3adc182caca6aabaa4880426c86ffeff384
+`
+0src/main/kotlin/section4/lec16/InlineFunction.kt,c/8/c8184d594fd7a81735bb91f4b66755741b63ee2c
+_
+/src/main/kotlin/section4/lec16/ScopeFunction.kt,6/b/6bfab6865438c15df7d028dff43649fa12b671c2
+W
+'src/main/java/section4/lec17/Fruit.java,4/5/459cd6def4b10d361af247b4a3c7006cd3c3abe2
+X
+(src/main/kotlin/section4/lec17/Lambda.kt,6/5/657b385f95f89db58ded10d213b269cfd3548459
+[
++src/main/java/section4/lec17/lec17Java.java,d/3/d3a79dd07151a3a2457ba569c8817866d113471a
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
