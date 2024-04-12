@@ -2,14 +2,14 @@ package section4.lec17
 
 fun main() {
     val fruits = listOf(
-        Fruit("사과", 1_000),
-        Fruit("사과", 1_200),
-        Fruit("사과", 1_200),
-        Fruit("사과", 1_500),
-        Fruit("바나나", 3_000),
-        Fruit("바나나", 3_200),
-        Fruit("바나나", 2_500),
-        Fruit("수박", 10_000),
+        Fruit(1,"사과", 1_000),
+        Fruit(2,"사과", 1_200),
+        Fruit(3,"사과", 1_200),
+        Fruit(4,"사과", 1_500),
+        Fruit(5,"바나나", 3_000),
+        Fruit(6,"바나나", 3_200),
+        Fruit(7,"바나나", 2_500),
+        Fruit(8,"수박", 10_000),
     )
 
     val isApple: (Fruit) -> Boolean = fun(fruit: Fruit): Boolean = fruit.name == "사과"   //fun 뒤에 함수 이름이 없는걸 볼 수 있다
