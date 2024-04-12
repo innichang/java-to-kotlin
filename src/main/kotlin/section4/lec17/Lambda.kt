@@ -28,6 +28,17 @@ fun main() {
     filterFruits(fruits) { fruit: Fruit -> fruit.name == "사과" }
     filterFruits(fruits) { fruit -> fruit.name == "사과" } //Fruit -> Boolean이여서 타입 추론 가능
     filterFruits(fruits) { it.name == "사과" } //파라미터가 1개 일때 'it'이 들어오는 fruit이 된다
+
+    var targetFruitName = "바나나"
+    targetFruitName = "수박"
+    filterFruits(fruits) { it.name == targetFruitName } //final이 아니여도 아무런 문제 없이 작동한다
+
+    /*
+    코틀린에서는 람다가 시작하는 지점에 참조하고 있는 변수들을 모두 포획하여 그 정보를 가지고 있다.
+
+    Closure 조금 더 찾아보기
+    람다가 실행되는 시점에 쓰고 있는 변수들을 모두 포획한 데이터 그조를 Closure라고 부른다
+     */
 }
 
 private fun filterFruits(
